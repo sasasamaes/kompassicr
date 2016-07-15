@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="9.5822mm" height="9.4916mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 397 393"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:white;stroke-width:8.26972}
+    .fil1 {fill:none}
+    .fil0 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="128,227 183,167 271,135 204,197 "/>
+  <rect class="fil0 str0" x="89" y="151" width="25.6668" height="15.3964"/>
+  <rect class="fil0 str0" x="282" y="218" width="25.6668" height="15.3964"/>
+  <rect class="fil0 str0" transform="matrix(3.88902E-014 -1.46566 1.46566 3.88902E-014 225.116 114.979)" width="17.5121" height="10.5048"/>
+  <rect class="fil0 str0" transform="matrix(3.88902E-014 -1.46566 1.46566 3.88902E-014 153.268 302.297)" width="17.5121" height="10.5048"/>
+  <polygon class="fil0 str0" points="20,139 10,139 52,139 50,160 15,139 "/>
+  <polygon class="fil0 str0" points="377,243 386,243 345,243 347,223 382,243 "/>
+  <polygon class="fil0 str0" points="146,370 146,382 146,340 167,340 146,377 "/>
+  <polygon class="fil0 str0" points="246,20 246,10 246,52 225,50 246,15 "/>
+  <ellipse class="fil1 str0" cx="197" cy="193" rx="120" ry="118"/>
+  <ellipse class="fil1 str0" cx="197" cy="193" rx="150" ry="145"/>
+ </g>
+</svg>
